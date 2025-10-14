@@ -3,9 +3,9 @@ this requires LÖVE 12.0 and above. i recommend you download love-windows-x64-de
 either "lovec ." or "love ." works lol if you wanna quickly test it
 
 ## Credits
-[LeonGamerPS1 (the one coding and maintaining this repo)](https://github.com/FunkinCrew) - the idea of making this fnf rewrite lol
-[swordcube](https://github.com/swordcube/comet.lua): thanks for making the [comet framework!!!](https://github.com/swordcube/comet.lua/tree/main) big shouts to you
-[FunkinCrew/FNF Developers](https://github.com/FunkinCrew): The [Beloved FNF Game](https://ninja-muffin24.itch.io/funkin) lolllll. the only reason besides the above entries why this exists. thank you for making such a great game you made! bigger shouts to you!
+- [LeonGamerPS1 (the one coding and maintaining this repo)](https://github.com/FunkinCrew) - the idea of making this fnf rewrite lol
+- [swordcube](https://github.com/swordcube/comet.lua): thanks for making the [comet framework!!!](https://github.com/swordcube/comet.lua/tree/main) big shouts to you
+- [FunkinCrew/FNF Developers](https://github.com/FunkinCrew): The [Beloved FNF Game](https://ninja-muffin24.itch.io/funkin) lolllll. the only reason besides the above entries why this exists. thank you for making such a great game you made! bigger shouts to you!
 
 
 
