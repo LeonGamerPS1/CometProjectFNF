@@ -1,0 +1,3 @@
+[submodule "external/comet"]
+	path = external/comet
+	url = https://github.com/swordcube/comet.lua
