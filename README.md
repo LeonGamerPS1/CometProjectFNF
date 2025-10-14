@@ -9,4 +9,4 @@ either "lovec ." or "love ." works lol if you wanna quickly test it
 
 
 
-# dont forget this engine is freshly made and severly W.I.P. Make an issue or contact me on Discord if theres an Issue. My handle on Discord is "@flying.haxe".
+dont forget this engine is freshly made and severly W.I.P. Make an issue or contact me on Discord if theres a Problem. My handle on Discord is "@flying.haxe".
