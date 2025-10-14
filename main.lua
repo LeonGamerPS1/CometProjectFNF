@@ -1,5 +1,5 @@
 comet = require("external.comet")
-
+Title = srcreq("src.screen.title")
 comet.init({
     flags = require("flags"),
     settings = {
