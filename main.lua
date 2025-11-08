@@ -1,8 +1,7 @@
+
+
 comet = require("external.comet")
-Title = srcreq("src.screen.title")
-TiledAnimatedImage = cometreq("gfx.tiledanimatedimage") --- @type comet.gfx.TiledAnimatedImage
-
-
+json = require("external.json.json")
 comet.init({
     flags = require("flags"),
     settings = {
@@ -13,5 +12,9 @@ comet.init({
         parallelUpdate = false,
         frequentGc = true,
     },
-    screen = function() return srcreq("screen.title"):new() end
+    screen = function() return srcreq("funkin.screen.title"):new() end
 })
+
+Title = srcreq("funkin.screen.title")
+TiledImage = cometreq("gfx.tiledimage") --- @type comet.gfx.TiledAnimatedImage
+Paths = srcreq("funkin.backend.paths")

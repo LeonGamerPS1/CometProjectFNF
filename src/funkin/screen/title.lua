@@ -1,4 +1,4 @@
---- @class screen.Title : comet.core.Screen
+--- @class funkin.screen.Title : comet.core.Screen
 local Title = Screen:extend("Title", ...)
 
 function Title:enter()

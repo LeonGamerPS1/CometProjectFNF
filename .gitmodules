@@ -1,3 +1,6 @@
 [submodule "external/comet"]
 	path = external/comet
 	url = https://git.gay/swordcube/comet.lua
+[submodule "external/json"]
+	path = external/json
+	url = https://github.com/rxi/json.lua
