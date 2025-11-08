@@ -1,6 +1,9 @@
 --- @class screen.Title : comet.core.Screen
-local Title = Screen:subclass("Title", ...)
+local Title = Screen:extend("Title", ...)
 
 function Title:enter()
+ print("ohno")
+
 end
 return Title
+    

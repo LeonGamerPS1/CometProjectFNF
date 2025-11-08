@@ -1,5 +1,8 @@
 comet = require("external.comet")
 Title = srcreq("src.screen.title")
+TiledAnimatedImage = cometreq("gfx.tiledanimatedimage") --- @type comet.gfx.TiledAnimatedImage
+
+
 comet.init({
     flags = require("flags"),
     settings = {
